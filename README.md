@@ -41,3 +41,5 @@ Need to contact me for business-related chats or commissions? Feel free to eithe
 
 Feedback and PRs are more than appreciated and welcome as long as they provide something meaningful. Do not tell me that this script "doesn't work" and provide no logs or additional information. Do not make a PR to fix a spelling mistake in a Lua comment. Other than that, feel free to contribute if you'd like.
 
+[preview](https://www.youtube.com/watch?v=CAJMQ3F-5MY)
+
